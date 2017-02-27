@@ -21,7 +21,7 @@ int main() {
   
       user_hand = FALSE; // user_handを無効化
       if (!strcmp("rock", input)) user_hand = ROCK;              // inputに対応して
-      else if (!strcmp("scissor", input)) user_hand = SCISSORS; // user_handに
+      else if (!strcmp("scissors", input)) user_hand = SCISSORS; // user_handに
       else if (!strcmp("paper", input)) user_hand = PAPER;       // 数値を代入
     } while (user_hand == FALSE); // rock, scissors, paper以外が入力されたらやり直し
   
