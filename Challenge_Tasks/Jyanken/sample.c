@@ -16,7 +16,7 @@ int main() {
 
     do {
       printf("Input your hand!\n > "); // 適当にメッセージを表示
-      char input[8];
+      char input[9];
       scanf("%s", input); // inputに文字列を代入(ただし%sは危険な処理)
   
       user_hand = FALSE; // user_handを無効化
