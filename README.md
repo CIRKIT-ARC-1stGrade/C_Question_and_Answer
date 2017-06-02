@@ -1,6 +1,7 @@
 # C_Question_and_Answer
 
 C言語についての質問とか受け付けてます
+[Links.md](https://github.com/CIRKIT-ARC-1stGrade/C_Question_and_Answer/blob/master/Links.md "links")にC言語を学習する上でよさ気なサイトとか紹介してますので、良かったら参考にしてね。
 
 Elements | Description  
 --- | ---  

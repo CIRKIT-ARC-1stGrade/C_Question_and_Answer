@@ -6,7 +6,7 @@
 
 ということで
 
-##[わかりやすめのサイト]
+## [わかりやすめのサイト]
 
 [関数の基本](http://kitako.tokyo/lib/CFirst.aspx?id=1 "func_basic")  
 [変数](http://kitako.tokyo/lib/CFirst.aspx?id=2 "valiable")  
