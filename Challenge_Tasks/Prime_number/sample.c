@@ -9,7 +9,7 @@ void show_help(const char* prog_name) {
 int is_Prime(int subject) {
   int i;
   for (i = 2; i <= (subject / 2); i++)
-    if (!(subject % 2)) return 0;
+    if (!(subject % i)) return 0;
   return 1;
 }
 
